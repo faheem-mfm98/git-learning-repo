@@ -6,13 +6,13 @@ This repo is made for learning and documenting my git learning journey.
 
 ### Convert a local Directory into a Git Repository
 
-To make a directory that is on your machine available on version control system such github, first open the directory in the terminal and then run:
+To make a directory (folder) that is on your machine available on version control system such github, first open the directory in the terminal and then run:
 
 ```
 git init
 ```
 
-Your directory will be tracked by git and will be version controlled by git.
+Your directory will be tracked by git and will be version-controlled by git.
 
 ### Getting A Local Access to a Repository
 
