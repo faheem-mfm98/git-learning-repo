@@ -1,0 +1,9 @@
+This is the second file created in the project.
+But the first file inside the folder.
+
+Steps:
+1. Created folder using cmd on terminal: mkdir <folder_name>
+2. Move into the folder using cmd: cd <folder_name>
+3. Create a new file using cmd: touch <file_name>
+4. Open the file using cmd: nano <file_name>
+5. Write something, save, and exit the file.  
