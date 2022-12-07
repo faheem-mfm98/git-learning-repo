@@ -29,10 +29,18 @@ The url is available in the **Code** drop-down menu above.
 Staging means to store changes that are made in a file or directory for the purpose of putting all changes in one place.
 
 ```
-git add <filename_or_path>
+git add <filename_or_full_path_to_file>
 ```
 
 Above commmand adds a modified file to the staging so it may be committed later.
+**Note:** You cannot add an empty folder to vcs using git. Folders that consist at least one file
+can be added by adding the file(s) that is inside the folder. 
+
+For example, the sample folder with sample_file2 is created by running  the following command:
+
+```
+git add sample_folder/sample_file2 // full path to file is given 
+```
 
 ### Commiting a Stagged environment
 
